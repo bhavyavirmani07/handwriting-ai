@@ -1,0 +1,10 @@
+{
+  "app_name": "Handwriting AI",
+  "school_name": "Green Valley School",
+  "weekly_goal_default": 5,
+  "allow_demo_reset": true,
+  "show_image_metrics": true,
+  "show_teacher_class_summary": true,
+  "show_leaderboard": true,
+  "show_progress_chart": true
+}

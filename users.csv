@@ -1,0 +1,34 @@
+login_id,role,name,class_group,system_id,linked_student_id,contact_label
+9000000001,Teacher,Ms. Meera Sharma,Class 9-A,,,Teacher Contact
+1234567801,Student,Gurpreet Singh,Class 9-A,1234567801,1234567801,Student Contact
+8234567801,Parent,Mr. Baldev Singh,Class 9-A,,1234567801,Parent Contact
+1234567802,Student,Harleen Kaur,Class 9-A,1234567802,1234567802,Student Contact
+8234567802,Parent,Mrs. Rajinder Kaur,Class 9-A,,1234567802,Parent Contact
+1234567803,Student,Jaspreet Singh,Class 9-A,1234567803,1234567803,Student Contact
+8234567803,Parent,Mr. Kulwinder Singh,Class 9-A,,1234567803,Parent Contact
+1234567804,Student,Simran Kaur,Class 9-A,1234567804,1234567804,Student Contact
+8234567804,Parent,Mrs. Harbhajan Kaur,Class 9-A,,1234567804,Parent Contact
+1234567805,Student,Amritpal Singh,Class 9-A,1234567805,1234567805,Student Contact
+8234567805,Parent,Mr. Jagtar Singh,Class 9-A,,1234567805,Parent Contact
+9000000002,Teacher,Mr. Harjit Singh,Class 8-B,,,Teacher Contact
+1234567806,Student,Navdeep Kaur,Class 8-B,1234567806,1234567806,Student Contact
+8234567806,Parent,Mrs. Paramjit Kaur,Class 8-B,,1234567806,Parent Contact
+1234567807,Student,Manpreet Singh,Class 8-B,1234567807,1234567807,Student Contact
+8234567807,Parent,Mr. Surjit Singh,Class 8-B,,1234567807,Parent Contact
+1234567808,Student,Kiran Kaur,Class 8-B,1234567808,1234567808,Student Contact
+8234567808,Parent,Mrs. Gurmeet Kaur,Class 8-B,,1234567808,Parent Contact
+1234567809,Student,Rajveer Singh,Class 8-B,1234567809,1234567809,Student Contact
+8234567809,Parent,Mr. Ranjit Singh,Class 8-B,,1234567809,Parent Contact
+1234567810,Student,Dilpreet Kaur,Class 8-B,1234567810,1234567810,Student Contact
+8234567810,Parent,Mrs. Manjit Kaur,Class 8-B,,1234567810,Parent Contact
+9000000003,Teacher,Ms. Navneet Kaur,Class 7-C,,,Teacher Contact
+1234567811,Student,Sukhman Singh,Class 7-C,1234567811,1234567811,Student Contact
+8234567811,Parent,Mr. Jagdeep Singh,Class 7-C,,1234567811,Parent Contact
+1234567812,Student,Parminder Kaur,Class 7-C,1234567812,1234567812,Student Contact
+8234567812,Parent,Mrs. Sukhwinder Kaur,Class 7-C,,1234567812,Parent Contact
+1234567813,Student,Harman Singh,Class 7-C,1234567813,1234567813,Student Contact
+8234567813,Parent,Mr. Lakhwinder Singh,Class 7-C,,1234567813,Parent Contact
+1234567814,Student,Baljeet Kaur,Class 7-C,1234567814,1234567814,Student Contact
+8234567814,Parent,Mrs. Balwinder Kaur,Class 7-C,,1234567814,Parent Contact
+1234567815,Student,Gurleen Kaur,Class 7-C,1234567815,1234567815,Student Contact
+8234567815,Parent,Mr. Charanjit Singh,Class 7-C,,1234567815,Parent Contact
