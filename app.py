@@ -28,7 +28,22 @@ from reportlab.platypus import (
 )
 from reportlab.lib.styles import getSampleStyleSheet, ParagraphStyle
 
+def load_users():
+    try:
+        BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+        file_path = os.path.join(BASE_DIR, "users.csv")
 
+        if not os.path.exists(file_path):
+            df = pd.DataFrame(columns=["login_id", "role", "name", "class_group", "linked_student_id"])
+            df.to_csv(file_path, index=False)
+            return df
+
+        return pd.read_csv(file_path)
+
+    except Exception as e:
+        import streamlit as st
+        st.error(f"Error loading users: {e}")
+        return pd.DataFrame(columns=["login_id", "role", "name", "class_group", "linked_student_id"])
 # =========================================================
 # PAGE CONFIG
 # =========================================================
